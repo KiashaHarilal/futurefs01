@@ -1,46 +1,69 @@
-# Welcome to My Personal Portfolio
-Table of Contents:
-About The Project
-Built With
-Features
-Getting Started
-Project Structure
-Customization
-Deployment
-Contact
+# Personal Professional Portfolio Website
+A personal portfolio website built as part of my Full Stack Web Development 
+internship at Future Interns.
+**Live Site:** https://kiashaharilal.netlify.app/
 
-About The Project
-This is my personal portfolio website built to showcase my journey in cybersecurity and software engineering. It features a clean, modern design with smooth animations and a focus on highlighting my IBM certifications, technical skills, and professional experience.
+## 👤 About
 
-Key Sections:
-Home - Introduction and overview
-About - Background and expertise
-Certifications - IBM cybersecurity credentials with verification links
-Contact - Reach out form and social links
+**Name:** Kiasha Harilal  
+**Role:** Full Stack Web Development Intern  
+**Organisation:** Future Interns  
+**Track Code:** FS  
+**Task:** FUTURE_FS_01  
 
-## What technologies are used for this project?
+## 📌 Features
+- Interactive Hero / About Me section
+- Skills showcase
+- Projects portfolio section
+- Contact form
+- Fully responsive design (mobile & desktop)
+- SEO-friendly structure
 
-🛠 Built With
-React 18 - UI library
-TypeScript - Type safety
-Tailwind CSS - Styling
-Framer Motion - Animations
-Vite - Build tool
-shadcn/ui - Component library
-Lucide Icons - Icons
+## 🛠 Tech Stack
 
-Features
-✅ Fully responsive design - Works on all devices
-✅ Smooth animations - Powered by Framer Motion
-✅ Dark/Light mode - Theme toggle included
-✅ Interactive UI - Hover effects and transitions
-✅ Certificate verification - Direct links to IBM credentials
-✅ Contact form - Easy way to reach out
-✅ SEO optimized - Meta tags included
-✅ Fast loading - Vite for optimal performance
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS / CSS
+- **Build Tool:** Vite / Lovable
+- **Deployment:** Netlify
 
-Getting Started
-Prerequisites
-Node.js (v18 or higher)
-npm or yarn
+## 🚀 Getting Started Locally
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/FUTURE_FS_01.git
 
+# Navigate into the project
+cd FUTURE_FS_01
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 📁 Project Structure
+```
+FUTURE_FS_01/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+└── README.md
+```
+## 💡 What I Learned
+
+During this task I gained hands-on experience building a complete 
+frontend portfolio from scratch. I learned how to structure a 
+React project, create reusable components, implement responsive 
+design, and deploy a live site using Netlify.
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** www.linkedin.com/in/kiasha-harilal-45a5362b1
+- **Email:** kiasha.harilal@gmail.com
